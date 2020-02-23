@@ -26,9 +26,9 @@ Github Source Code: https://github.com/hassanfarahani/Chat-App
 I had an interview with Cisco Company (They were looking for Intermediate UI Developer). They wanted me to build a simple chat application. I built this application using Vue.js, and Vuex.
 
  
-# Inspiration
+## Inspiration
 
-Work Example 1: RTA Learning Tool
+### Work Example 1: RTA Learning Tool
 
 This is a very inspiring project for me, because 
 1.	I learned how to combine vue.js and d3.js (there is not many source on the internet to teach how to use these two together, I figured it out by myself). 
@@ -38,7 +38,7 @@ This is a very inspiring project for me, because
 
 
 
-Work Example 2: WMS Application
+### Work Example 2: WMS Application
 
 Making this application was a very good opportunity for me to learn authentication:
 1.	I learned what is token and how to use it in order to authenticate the user. I learned how to get token from the response of the post request (which has been sent to the server after user inputs its username, and password), and store it in the state. 
@@ -46,9 +46,9 @@ Making this application was a very good opportunity for me to learn authenticati
 3.	I learned how to create protected guards for a route by checking if the user is signed in or not.
 
  
-# Focus
+## Focus
 
 If I were given the time and resource to learn something, I would prefer to continue learning React.js (Udemy course), and then starting a real project using React.js, and Redux. The reason is that I have not had time to build an application using React.js yet; in fact, in all of my projects, I have used vue.js. Based on my understanding, React.js is the most popular framework in the industry. 
 
-# Code Challenge
+## Code Challenge
 Link to my solution: https://codesandbox.io/s/2020-internship-exercise-menu-su3ph
