@@ -4,7 +4,8 @@
 
 ### Project 1: RTA Learning Tool
 
-URL: https://zen-roentgen-b5c232.netlify.com/
+URL: https://zen-roentgen-b5c232.netlify.com/ 
+
 Github Source Code: https://github.com/hassanfarahani/RTA-Learning-Tool
 
 I am working part time (remote) for Saga Company helping them to develop some petroleum-learning tool. They have many petroleum-engineering instructors to teach petroleum-engineering concepts, and my role is to develop an interactive learning tool using Vue.js and D3.js. I am still working on RTA learning tool to improve its appearance, and functionalities, but I developed it by myself because Saga is a small start-up company. They do not have many developers. I learned D3.js during this project, and how combine vue & d3.
@@ -13,6 +14,7 @@ I am working part time (remote) for Saga Company helping them to develop some pe
 ### Project 2: WMS Application 
 
 URL: https://wms-app.netlify.com
+
 Github Source Code: https://github.com/hassanfarahani/WMS
 
 This is a simple Well Management System (WMS) application (personal project). I was fetching the well data from an API, and displaying them on the screen, but first user need to sign in in order to access the well data. If user do not have an account, he/she should first sign up, and then sign in to edit (add, edit and delete) the well data. Without sign in, user can just observe the list of the wells. Unfortunately, the API I was fetching the well data from, is not working anymore, but you can check the source code to see how I have used this API. The reason I put this project in my list to show it to you is that I learned a lot from this project.
@@ -21,6 +23,7 @@ This is a simple Well Management System (WMS) application (personal project). I 
 ### Project 3: Chat Application 
 
 URL: https://inspiring-mcnulty-f3d6e2.netlify.com/
+
 Github Source Code: https://github.com/hassanfarahani/Chat-App
 
 I had an interview with Cisco Company (They were looking for Intermediate UI Developer). They wanted me to build a simple chat application. I built this application using Vue.js, and Vuex.
