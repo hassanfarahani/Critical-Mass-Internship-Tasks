@@ -1,6 +1,6 @@
 # Critical-Mass-Internship-Tasks
 
-# Work / Project Examples
+## Work / Project Examples
 
 Project 1: RTA Learning Tool
 
