@@ -46,7 +46,7 @@ This is a very inspiring project for me, because
 Making this application was a very good opportunity for me to learn authentication:
 1.	I learned what is token and how to use it in order to authenticate the user. I learned how to get token from the response of the post request (which has been sent to the server after user inputs its username, and password), and store it in the state. 
 2.	I figured it out that in order to give user the ability to reload the page after sign in, I need to store the token in the local storage.
-3.	I learned how to create protected guards for a route by checking if the user is signed in or not.
+3.	I learned how to create protected guards (in case user wants to open a page without signing in) for a route by checking if the user is signed in or not.
 
  
 ## Focus
